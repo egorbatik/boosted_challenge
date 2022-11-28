@@ -66,3 +66,5 @@ curl --location --request POST 'http://localhost:8080/consent/target/' \
 1. npm run test
 ' The tests have the repository "stubbed", without the stubbed repository, the test will go against the database.
 
+## Run
+1. npm start
