@@ -2,11 +2,12 @@
 
 ## About the solution
 I choose nodejs as it have some advantages vs java
+### Advantages:
     - Faster for intensive IO apps like this challenge
     - Faster to develop
     - In a production environment uses less resources than a JVM
 
-Disadvantages:
+### Disadvantages:
     - No Depency Injection like Java
     - No contract (classes/interfases/typing)
 
